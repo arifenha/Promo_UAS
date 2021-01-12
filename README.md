@@ -1,6 +1,7 @@
 # Promo_UAS
-MAHASISWA
-Nama : Briga Darmawan Nim : 19.11.2831
+# MAHASISWA
+Nama : Arif Nur Huda 
+Nim : 19.11.2857
 
 STUDIKASUSPROMOS
 Aplikasi ini bertujuan seperti simulasi pembelian makanan dan minuman dengan menggunakan promo/voucher.
