@@ -1,5 +1,5 @@
 # MAHASISWA
-Nama  : Ariof Nur Huda
+Nama  : Arif Nur Huda
 Nim   : 19.11.2857
 
 # STUDIKASUSPROMOS 
