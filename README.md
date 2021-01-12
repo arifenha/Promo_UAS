@@ -1,6 +1,6 @@
 # MAHASISWA
-Nama  : Briga Darmawan
-Nim   : 19.11.2831
+Nama  : Ariof Nur Huda
+Nim   : 19.11.2857
 
 # STUDIKASUSPROMOS 
 Aplikasi ini bertujuan seperti simulasi pembelian makanan dan minuman dengan menggunakan promo/voucher.
